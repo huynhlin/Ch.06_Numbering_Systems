@@ -20,8 +20,8 @@ Sign your name: Lindy Huynh
     ASCII
 '''
 # free ascii converter in pycharm
-print(chr(65))
-print(ord("A"))
+print(chr(65))  # gives the ASCII character of the #
+print(ord("A"))  # give the # of the ASCII character
 '''
 test = input("Enter a word to encrypt.")
 for letter in test:
